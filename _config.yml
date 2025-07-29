@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-# title                    : "Your Name / Site Title"
+title                    : "Wanyi Ning's Homepage" # the title of your site, e.g. "My Awesome Site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
