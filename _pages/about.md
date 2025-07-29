@@ -1,11 +1,10 @@
+---
 permalink: /
-title: "About Me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-
   - /about/
   - /about.html
-
 ---
 
 I am currently a Distinguished Professor at the University of South China (USC). I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
@@ -36,9 +35,9 @@ Publications
 
   <u>Wanyi Ning</u>, Qi Qi, Jingyu Wang, Mengde Zhu, Shaolong Li, Guang Yang, Jianxin Liao.
 
-- [[ICML'23 workshop](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO#tab-your-consoles)] Gpt-zip: Deep compression of finetuned large language models. [[Paper](https://openreview.net/pdf?id=hO0c2tG2xL)]
+- [[ICML'23 workshop](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO#tab-your-consoles)] Gpt-zip: Deep compression of finetuned large language models.
 
-  Berivan Isik\*, Hermann Kumbong\*, <u>Wanyi Ning\*</u>, Xiaozhe Yao\*, Sanmi Koyejo, Ce Zhang.
+  Berivan Isik\*, Hermann Kumbong\*, <u>Wanyi Ning\*</u>, Xiaozhe Yao\*, Sanmi Koyejo, Ce Zhang. [[Paper](https://openreview.net/pdf?id=hO0c2tG2xL)]
 
 - [[JSAC'21](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49)] Following the correct direction: Renovating sparsified SGD towards global optimization in distributed edge learning. [[Paper](https://ieeexplore.ieee.org/abstract/document/9562562)]
 
