@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /ch/
 title: "About Me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /ch/
   - /about.html
 ---
 
