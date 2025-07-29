@@ -9,7 +9,7 @@
 
 main:
   - title: "中文"
-    url: /publications/
+    url: /about_ch/
 
   # - title: "Talks"
   #   url: /talks/    
