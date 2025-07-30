@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "中文"
-    url: /ch/
+  # - title: "中文"
+  #   url: /about_ch/
 
   # - title: "Talks"
   #   url: /talks/    
