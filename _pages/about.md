@@ -7,14 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-👩 I am currently a postdoctoral researcher at Tianjin University (TJU). I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
+In academy, I am currently a postdoctoral researcher at Tianjin University (TJU) since 2026-02, working with Prof. [Tong Guo](https://jyxy.tju.edu.cn/cn/szdw/20110223/281.shtml). Before that, I was an assistant professor at University of South China from 2025-07 to 2025-12. I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025-06, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
 
-📖 My research interests include *distributed machine learning* and *model compression*. 
+In industry, I am currently a research intern at [Yijiahe](https://www.yijiahe.com/)'s LLM Lab, focusing on Auto Speech Recognition for our medical robotic system. I am also a research consultant at Chengmei Technology Co., Ltd, focusing on the joint optimization of intelligent sensors.
 
 😄 Feel free to contact me: ningwanyi@126.com
 
+Research Interests
+======
+- **Auto Speech Recognition**: End-to-end ASR, Target speaker extraction
+- **Distributed Machine Learning**: Federated learning, Distributed optimization
+- **Efficient LLMs**: Model compression, Parameter-efficient fine-tuning, Knowledge distillation
 
-Publications
+News!
+======
+- **[2026-05]** 🔥 New preprint: [FormalASR: End-to-End Spoken Chinese to Formal Text](https://arxiv.org/abs/2605.19266). We present two compact end-to-end models ([0.6B](https://huggingface.co/TaurenMountain/FormalASR-0.6B) & [1.7B](https://huggingface.co/TaurenMountain/FormalASR-1.7B)) that directly transcribe spoken Chinese into formal written text, achieving up to **37.4% relative CER reduction** over verbatim baselines — no post-processing LLM needed at deployment time.
+
+- **[2026-02]** I join the School of Precision Instrument and Optoelectronics Engineering, [Tianjin University](https://www.tju.edu.cn/) as a postdoctoral researcher.
+
+- **[2025-07]** Our paper about federated LoRA fine-tuning in heterogeneous settings has been accepted by [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+
+- **[2024-10]** Our paper about lossless compression for fine-tuned foundation models has been accepted by [NeurIPS](https://neurips.cc/Conferences/2024).
+
+- **[2024-06]** Our paper about federated knowledge distillation has been accepted by [TSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386).
+
+
+Selected Publications
 ======
 
 - [[TNNLS'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)] <u>Wanyi Ning</u>, Jingyu Wang, Qi Qi, Haifeng Sun, Daixuan Cheng, Cong Liu, Lei Zhang, Zirui Zhuang, Jianxin Liao. "Federated Fine-Tuning on Heterogeneous LoRAs With Error-Compensated Aggregation". [[Paper](https://ieeexplore.ieee.org/abstract/document/11083124)]
