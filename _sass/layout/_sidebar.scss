@@ -9,6 +9,7 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+  font-size: 16px; /* 保持侧边栏字体大小不受全局缩小影响 */
 
   @include clearfix();
   margin-bottom: 1em;
