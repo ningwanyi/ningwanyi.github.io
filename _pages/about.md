@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-In academy, I am currently a postdoctoral researcher at Tianjin University (TJU) since 2026, working with Prof. [Tong Guo](https://jyxy.tju.edu.cn/cn/szdw/20110223/281.shtml). Before that, I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
+Hello, I'm Wanyi Ning. I have been a postdoctoral researcher at Tianjin University (TJU) since 2026, working with Prof. [Tong Guo](https://jyxy.tju.edu.cn/cn/szdw/20110223/281.shtml). Before that, I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
 
-In industry, I am currently a research intern at [Yijiahe](https://www.yijiahe.com/)'s LLM Lab, focusing on Auto Speech Recognition for our medical robotic system. I am also a research consultant at Chengmei Technology Co., Ltd, focusing on the joint optimization of intelligent sensors.
+Also, I am currently a research intern at [Yijiahe](https://www.yijiahe.com/)'s LLM Lab, focusing on Automatic Speech Recognition for our medical robotic system. I am also a research consultant at Chengmei Technology Co., Ltd, focusing on the joint optimization of intelligent sensors.
 
 😄 Feel free to contact me: ningwanyi@126.com
 
