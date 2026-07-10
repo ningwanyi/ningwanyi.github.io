@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I'm Wanyi Ning. I have been a postdoctoral researcher at Tianjin University (TJU) since 2026, working with Prof. [Tong Guo](https://jyxy.tju.edu.cn/cn/szdw/20110223/281.shtml). Before that, I received my Ph.D. from Beijing University of Posts and Telecommunications in 2025, advised by Prof. [Jingyu Wang](https://scholar.google.com/citations?hl=en&user=H441DjwAAAAJ&view_op=list_works). In 2023, I was a visiting student at ETH Zurich, working with Prof. [Ce Zhang](https://scholar.google.com/citations?user=GkXqbmMAAAAJ&hl=zh-CN&oi=ao).
 
-Also, I am currently a research intern at [Yijiahe](https://www.yijiahe.com/)'s LLM Lab, focusing on Automatic Speech Recognition for our medical robotic system. I am also a research consultant at Chengmei Technology Co., Ltd, focusing on the joint optimization of intelligent sensors.
+Also, I am currently a research intern at [Yijiahe](https://www.yijiahe.com/) AI, focusing on Automatic Speech Recognition for our medical robotic system. I am also a research consultant at Chengmei Technology Co., Ltd, focusing on the joint optimization of intelligent sensors.
 
 😄 Feel free to contact me: ningwanyi@126.com
 
@@ -21,6 +21,7 @@ Research Interests
 
 News!
 ======
+- **[2026-07]** 🔥🔥 New preprint: [PS4: Proxy-Supervised Joint Training for Real Target Speaker Extraction](https://arxiv.org/abs/2607.08111). We release [PS4](https://github.com/TaurenMountain/PS4), a proxy-supervised training framework for target speaker extraction, along with [REAL-PS4](https://huggingface.co/datasets/TaurenMountain/REAL-PS4), a large-scale real-world corpus of 71,771 samples. 🏆 On the REAL-T Challenge leaderboard, PS4 ranks **2nd overall**! 
 - **[2026-05]** 🔥 New preprint: [FormalASR: End-to-End Spoken Chinese to Formal Text](https://arxiv.org/abs/2605.19266). We present two compact end-to-end models ([0.6B](https://huggingface.co/TaurenMountain/FormalASR-0.6B) & [1.7B](https://huggingface.co/TaurenMountain/FormalASR-1.7B)) that directly transcribe spoken Chinese into formal written text, achieving up to **37.4% relative CER reduction** over verbatim baselines — no post-processing LLM needed at deployment time.
 
 - **[2026-02]** I join the School of Precision Instrument and Optoelectronics Engineering, [Tianjin University](https://www.tju.edu.cn/) as a postdoctoral researcher.
